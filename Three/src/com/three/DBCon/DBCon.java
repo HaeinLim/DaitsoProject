@@ -10,7 +10,6 @@ public class DBCon {
 		return con;
 	}
 	
-	//»ý¼ºÀÚ
 	public DBCon() throws ClassNotFoundException, SQLException {
 		Class.forName("oracle.jdbc.driver.OracleDriver");
 		con=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe", "three", "three");
