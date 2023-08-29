@@ -16,7 +16,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github.com/HaeinLim/CucumberProject/assets/140698817/f8d4e45c-ea5f-4f95-9782-bfc32a828f96" width="600" height="400">
+        <img src="https://github.com/HaeinLim/DaitsoProject/assets/140698817/4a0a4ce8-de63-4836-aa6f-85bd7a49eff4" width="600" height="400">
       </td>
     </tr>
     <tr>
