@@ -76,3 +76,45 @@
       </tr>
   </table>
 </div>
+
+- 메인 페이지 및 상세 페이지
+
+<div align="center">
+  <table align="center">
+    <tr>
+      <th>메인 페이지</th><th>상세 페이지</th><th>문의</th><th>리뷰</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/HaeinLim/DaitsoProject/assets/140698817/4a0a4ce8-de63-4836-aa6f-85bd7a49eff4" width="400" height="200">
+      </td>
+      <td>
+        <img src="https://github.com/HaeinLim/DaitsoProject/assets/140698817/a222439a-f9b3-4a3c-a638-f268f0ff5813" width="400" height="200">
+      </td>
+      <td>
+        <img src="https://github.com/HaeinLim/DaitsoProject/assets/140698817/f69f6ea5-7eff-4a74-8287-a4638928593f" width="400" height="200">
+      </td>
+      <td>
+        <img src="https://github.com/HaeinLim/DaitsoProject/assets/140698817/8669573b-6c0c-41b5-9e2b-3631f5cde6da" width="400" height="200">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        - 카테고리 별 조회 및 검색 가능<br>
+        - 4가지 조건으로 페이지 정렬 가능<br>
+      </td>
+      <td>
+        - 상품 수량 선택 후 장바구니 담기 가능<br>
+      </td>
+      <td>
+        - 상품에 대한 문의 작성 및 확인<br>
+        - 회원 및 관리자는 답글 작성 가능<br>
+      </td>
+      <td>
+        - 회원이 작성한 리뷰 조회 가능<br>
+      </td>
+    </tr>
+  </table>
+
+  - 
+</div>
