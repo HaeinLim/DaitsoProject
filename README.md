@@ -112,6 +112,7 @@
       </td>
       <td>
         - 회원이 작성한 리뷰 조회 가능<br>
+        - 2가지 조건으로 정렬 가능
       </td>
     </tr>
   </table>
@@ -143,4 +144,32 @@
     </tr>
   </table>
 </div>
+
+  - 마이 페이지 및 관리자 페이지
+
+<div align="center">
+  <table algin="center">
+    <tr>
+      <th>마이 페이지</th><th>관리자 페이지</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/HaeinLim/DaitsoProject/assets/140698817/cb1f2ca3-2389-4a2d-b31d-35b648e7b398" width="400" height="200">
+      </td>
+      td>
+        <img src="https://github.com/HaeinLim/DaitsoProject/assets/140698817/cb1f2ca3-2389-4a2d-b31d-35b648e7b398" width="400" height="200">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        - 장바구니와 내 주문목록, 문의글, 리뷰, <br>
+          결제 취소 및 정보 수정 가능
+      </td>
+      <td>
+        - 회원조회, 상품 및 문의글 조회, 취소요청 관리,<br>
+          관리자 정보 수정 가능
+        - 상품 조회에서 새 상품과 카테고리 등록 가능
+      </td>
+    </tr>
+  </table>
 </div>
