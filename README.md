@@ -156,9 +156,6 @@
       <td>
         <img src="https://github.com/HaeinLim/DaitsoProject/assets/140698817/ba8e7159-85fe-40d0-a86f-1ebf33c900cb" width="400" height="200">
       </td>
-      <td>
-        <img src="https://github.com/HaeinLim/DaitsoProject/assets/140698817/4f3badc5-67dd-4362-84ef-fcccafcf0c20" width="400" height="200">
-      </td>
     </tr>
     <tr>
       <td>
