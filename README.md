@@ -56,4 +56,24 @@
 
 ## 프로그램 화면
 
- 
+- 회원가입
+
+<div align="center">
+  <table align="center">
+      <tr>
+        <th>회원가입</th>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://github.com/HaeinLim/CucumberProject/assets/140698817/0f368630-4f58-4dd4-8514-b104da8bb840" width="400" height="200">
+        </td>
+      </tr>
+      <tr>
+        <td>
+          - 우측 상단에 마이페이지 이동 아이콘과 로그아웃 아이콘 생성 <br>
+          - + 버튼을 클릭하여 거래글 작성 가능 <br>
+          - 다양한 방법으로 거래글 조회 가능 및 둘러보기 가능
+        </td>
+      </tr>
+  </table>
+</div>
