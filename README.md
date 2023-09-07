@@ -116,5 +116,30 @@
     </tr>
   </table>
 
-  - 
+  - 장바구니 및 결제
+
+<div align="center">
+  <table align="center">
+    <tr>
+      <th>장바구니</th><th>결제</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/HaeinLim/DaitsoProject/assets/140698817/a26e75ca-3c4a-451a-8a23-e943ca09649b" width="400" height="200">
+      </td>
+      <td>
+        <img src="https://github.com/HaeinLim/DaitsoProject/assets/140698817/a26e75ca-3c4a-451a-8a23-e943ca09649b" width="400" height="200">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        - 최소 주문량은 1건, 최대 주문량은 7건<br>
+        - 선택을 통해 부분 구매 및 삭제 가능
+      </td>
+      <td>
+        - 주소 입력 후 정보 확인 후 결제 진행<br>
+      </td>
+    </tr>
+  </table>
+</div>
 </div>
