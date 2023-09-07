@@ -128,7 +128,7 @@
         <img src="https://github.com/HaeinLim/DaitsoProject/assets/140698817/a26e75ca-3c4a-451a-8a23-e943ca09649b" width="400" height="200">
       </td>
       <td>
-        <img src="https://github.com/HaeinLim/DaitsoProject/assets/140698817/a26e75ca-3c4a-451a-8a23-e943ca09649b" width="400" height="200">
+        <img src="https://github.com/HaeinLim/DaitsoProject/assets/140698817/cb1f2ca3-2389-4a2d-b31d-35b648e7b398" width="400" height="200">
       </td>
     </tr>
     <tr>
