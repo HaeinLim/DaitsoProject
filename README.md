@@ -156,7 +156,7 @@
       <td>
         <img src="https://github.com/HaeinLim/DaitsoProject/assets/140698817/ba8e7159-85fe-40d0-a86f-1ebf33c900cb" width="400" height="200">
       </td>
-      td>
+      <td>
         <img src="https://github.com/HaeinLim/DaitsoProject/assets/140698817/4f3badc5-67dd-4362-84ef-fcccafcf0c20" width="400" height="200">
       </td>
     </tr>
@@ -167,7 +167,7 @@
       </td>
       <td>
         - 회원조회, 상품 및 문의글 조회, 취소요청 관리,<br>
-          관리자 정보 수정 가능
+          관리자 정보 수정 가능<br>
         - 상품 조회에서 새 상품과 카테고리 등록 가능
       </td>
     </tr>
