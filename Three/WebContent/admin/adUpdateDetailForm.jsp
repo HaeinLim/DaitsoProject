@@ -32,7 +32,7 @@
 			return false;
 		}
 	}
-	function updateCheck() {
+	function updateCheck() { // 수정시 수정 완료 알림 팝업
 		alert("수정되었습니다");
 	}
 </script>
