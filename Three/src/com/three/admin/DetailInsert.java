@@ -25,6 +25,7 @@ public class DetailInsert implements ThreeImpl {
 		
 		String fileSave = request.getSession().getServletContext().getRealPath("detail_imgs");
 		
+		// 이미지 업로드
 		MultipartRequest multi = new MultipartRequest(request, fileSave,
 						15*1024*1024, "UTF-8", new DefaultFileRenamePolicy());
 		
