@@ -9,7 +9,7 @@
   - 프로젝트명 : 다있소
   - 프로젝트 진행기간 : 2023.06.13-2023.07.07
   - 사용 기술 : JAVA, JSP, HTML, CSS, JavaScript, AJAX, JQuery, Oracle, SQL
-  - 팀 구성원 : 임해인(팀장), 이경민, 이지환, 장민석, 최민진
+  - 팀 구성원 : 임해인 외 4명
 
 ## 프로그램 설명
 <div align="center">
